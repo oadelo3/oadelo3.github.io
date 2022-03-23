@@ -1,3 +1,9 @@
+
+1.) Name and headhot at top of left column:
 /_config.yml
 
-_layouts/custom.
+2.) The links in the left column.
+./_layouts/custom.html
+
+3.)
+
