@@ -6,4 +6,5 @@
 ./_layouts/custom.html
 
 3.)
+index.md
 
